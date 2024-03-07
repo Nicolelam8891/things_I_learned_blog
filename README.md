@@ -12,7 +12,7 @@ With my background as a nurse 💉💊, I have witnessed firsthand how technolog
 | [Scope](JavaScript/Concepts/Scope.md) | 02.25.2024 |
 | [Let & Const](JavaScript/Concepts/LetAndConst.md) | 02.26.2024 |
 | [For...of & While Loop](JavaScript/LeetCodeMethods/ForOf&WhileLoop.md) | 02.27.2024 |
-| [Closures](JavaScriptConcepts/Closures.md) | 02.27.2024 |
+| [Closures](JavaScript/Concepts/Closures.md) | 02.27.2024 |
 | [toString & parseInt](JavaScript/LeetCodeMethods/toString&parseInt.md) | 03.01.2024 |
 | [Pointers](JavaScript/LeetCodeMethods/Pointers.md) | 03.06.2024 |
 
