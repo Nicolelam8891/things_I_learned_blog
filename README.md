@@ -12,4 +12,5 @@ With my background as a nurse 💉💊, I have witnessed firsthand how technolog
 | [Scope](JavaScriptConcepts/Scope.md) | 02.25.2024 |
 | [Let & Const](JavaScriptConcepts/LetAndConst.md) | 02.26.2024 |
 | [For...of & While Loop](JavaScriptConcepts/ForOf&WhileLoop.md) | 02.27.2024 |
+| [Closures](JavaScriptConcepts/Closures.md) | 02.27.2024 |
 
