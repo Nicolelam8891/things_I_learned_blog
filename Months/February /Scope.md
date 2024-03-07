@@ -4,18 +4,22 @@
 
 What I have learned:
 1. Scope means where these variables are avail for use, var declarations are globally scoped or function/locally scoped. 
-2. When var variable is outside of a fucnion, the scope is global.
-  a. The variable that is declared with var outside of a function block is available for use. 
+2. When var variable is outside of a function, the scope is global.
+  - The variable that is declared with var outside of a function block is available for use. 
 3. Var is function scoped when it is declared within a function 
-  a. It can only be accessed within that function 
+  - It can only be accessed within that function 
 
 ```js
-var favDrink = "Coffee"; //globally scoped, exists outside of a function 
+var favDrink = "Coffee"; 
+//globally scoped, exists outside of a function 
 
 function newFunction() {
-  var favCafeDrink = "Cortado" //function scoped. Cannot access the variable favCafeDrink outside of the function 
+  var favCafeDrink = "Cortado" 
+  //function scoped. Cannot access the variable favCafeDrink outside of the function 
 }
-console.log(favCafeDrink); //this will say favCafeDrink is not defined since favCafeDrink is not avail outside of the function
+
+console.log(favCafeDrink); 
+//this will say favCafeDrink is not defined since favCafeDrink is not avail outside of the function
 ```
 
 ## HOISTING OF VAR
@@ -31,21 +35,26 @@ const moo = mooLikeACow();
 const mooLikeACow = () => {
   return 'Moo!'
 }
-console.log('Animal Sound:', moo) //cannot access mooLikeACow before initialization. The function will not be hoisted. 
+
+console.log('Animal Sound:', moo) 
+//cannot access mooLikeACow before initialization. The function will not be hoisted. 
 ```
 
 ```js
 const mooLikeACow = () => {
   return 'Moo!'
 }
+
 const moo = mooLikeACow();
-console.log('Animal Sound:', moo) //Animal Sound: Moo!
+console.log('Animal Sound:', moo) 
+//Animal Sound: Moo!
 
 var moo = mooLikeACow();
 
 function mooLikeACow() {
   return 'Moo!';
 } 
+
 console.log('Animal Sound:', moo);
 ```
 
