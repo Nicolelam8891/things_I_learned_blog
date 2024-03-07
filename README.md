@@ -9,5 +9,5 @@ With my background as a nurse 💉💊, I have witnessed firsthand how technolog
 | Table of Contents | :point_down: |
 | -------- | -------- |
 | :books: **February** | |
-| [Scope](javascript/scope.md) | 02.25.2024 |
+| [Scope](JavaScriptConcepts/Scope.md) | 02.25.2024 |
 
