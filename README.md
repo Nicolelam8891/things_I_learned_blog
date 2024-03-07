@@ -10,4 +10,5 @@ With my background as a nurse 💉💊, I have witnessed firsthand how technolog
 | -------- | -------- |
 | :books: **February** | |
 | [Scope](JavaScriptConcepts/Scope.md) | 02.25.2024 |
+| [Let & Const](JavaScriptConcepts/LetAndConst.md) | 02.26.2024 |
 
