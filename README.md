@@ -19,4 +19,5 @@ With my background as a nurse 💉, I have witnessed firsthand how technology ha
 | [toString & parseInt](JavaScript/LeetCodeMethods/toString&parseInt.md) | 03.01.2024 |
 | [Pointers](JavaScript/LeetCodeMethods/Pointers.md) | 03.06.2024 |
 | [How the web works](JavaScript/Concepts/HowTheWebWorks.md) | 03.07.2024 |
+| [Background image for React App](JavaScript/Projects/ticTacToe.md) | 03.10.2024 |
 
