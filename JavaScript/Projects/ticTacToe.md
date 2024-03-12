@@ -15,5 +15,9 @@ html {
   height: 100%;
 }
 ```
-
 > I needed to make the height of the html to 100%. If I didn't, I had extra white space on the bottom
+
+```js
+text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 2px 2px 0 #000;
+```
+> Learned how to create an outline around letters! 
