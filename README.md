@@ -20,4 +20,6 @@ With my background as a nurse 💉, I have witnessed firsthand how technology ha
 | [Pointers](JavaScript/LeetCodeMethods/Pointers.md) | 03.06.2024 |
 | [How the web works](JavaScript/Concepts/HowTheWebWorks.md) | 03.07.2024 |
 | [Background image for React App](JavaScript/Projects/ticTacToe.md) | 03.10.2024 |
+| [Object Oriented and Functional Programing](JavaScript/Concepts/OOP&FP.md) | 03.11.2024 |
+
 
