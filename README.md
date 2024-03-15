@@ -15,11 +15,14 @@ With my background as a nurse 💉, I have witnessed firsthand how technology ha
 | [Let & Const](JavaScript/Concepts/LetAndConst.md) | 02.26.2024 |
 | [For...of & While Loop](JavaScript/LeetCodeMethods/ForOf&WhileLoop.md) | 02.27.2024 |
 | [Closures](JavaScript/Concepts/Closures.md) | 02.28.2024 |
+| [For in Loop](JavaScript/LeetCodeMethods/ForInLoop.md) | 02.29.2024 |
 | 🗓️ **March** 🍀 | |
 | [toString & parseInt](JavaScript/LeetCodeMethods/toString&parseInt.md) | 03.01.2024 |
 | [Pointers](JavaScript/LeetCodeMethods/Pointers.md) | 03.06.2024 |
 | [How the web works](JavaScript/Concepts/HowTheWebWorks.md) | 03.07.2024 |
 | [Background image for React App](JavaScript/Projects/ticTacToe.md) | 03.10.2024 |
 | [Object Oriented and Functional Programing](JavaScript/Concepts/OOP&FP.md) | 03.11.2024 |
+| [Learning about Matrix](JavaScript/LeetCodeMethods/Matrix.md) | 03.12.2024 |
+| [Background Images](JavaScript/Projects/ticTacToe.md) | 03.13.2024 |
 
 
