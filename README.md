@@ -24,5 +24,6 @@ With my background as a nurse 💉, I have witnessed firsthand how technology ha
 | [Object Oriented and Functional Programing](JavaScript/Concepts/OOP&FP.md) | 03.11.2024 |
 | [Learning about Matrix](JavaScript/LeetCodeMethods/Matrix.md) | 03.12.2024 |
 | [Background Images](JavaScript/Projects/ticTacToe.md) | 03.13.2024 |
+| [...prev](JavaScript/Projects/prev.md) | 03.14.2024 |
 
 
