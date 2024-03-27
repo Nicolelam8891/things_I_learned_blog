@@ -11,6 +11,7 @@ With my background as a nurse 💉, I have witnessed firsthand how technology ha
 | Table of Contents | :point_down: |
 | -------- | -------- |
 | 🗓️ **March** 🍀 | |
+| [How the Web Works II](JavaScript/Concepts/HowTheWebWorksII.md) | 03.27.2024 |
 | [Background image with Tailwind](JavaScript/Projects/backgroundImageTailwind.md) | 03.25.2024 |
 | [Execution Context](JavaScript/Concepts/AnnoynomousFunction.md) | 03.21.2024 |
 | [Annoynomous Functions](JavaScript/Concepts/AnnoynomousFunction.md) | 03.20.2024 |
