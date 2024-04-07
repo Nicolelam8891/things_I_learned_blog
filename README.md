@@ -11,7 +11,8 @@ With my background as a nurse 💉, I have witnessed firsthand how technology ha
 | Table of Contents | :point_down: |
 | -------- | -------- |
 | 🗓️ **April** 🌦️ | |
-| [HRender Winner Icons](JavaScript/Projects/renderWinnerIcons.md) | 04/04/2024 |
+| [setTimeout function](JavaScript/Projects/setTimeout.md) | 04/06/2024 |
+| [Render Winner Icons](JavaScript/Projects/renderWinnerIcons.md) | 04/04/2024 |
 | 🗓️ **March** 🍀 | |
 | [How the Web Works II](JavaScript/Concepts/HowTheWebWorksII.md) | 03.27.2024 |
 | [Background image with Tailwind](JavaScript/Projects/backgroundImageTailwind.md) | 03.25.2024 |
