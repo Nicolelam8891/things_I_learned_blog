@@ -48,7 +48,7 @@ higherOrderFunction(callbackFunction2)
 
 ### Benefits of Higher Order Functions 
 
-✅ improve legibility of code, making it more concise and easy to undersetand
-✅ can speed up developemnt process
-✅ make it easier to debug code 
+- ✅ improve legibility of code, making it more concise and easy to undersetand
+- ✅ can speed up developemnt process
+- ✅ make it easier to debug code 
 
