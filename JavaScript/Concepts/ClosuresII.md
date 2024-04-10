@@ -8,7 +8,7 @@ function greet(firstName) {
   return displayName //greet returs `displayName` function and we assign it to myClosure
 }
 const myClosure = greet("Alice") //call greet with the argument "Alice"
-myClosure();
+myClosure(); //output: "Alice"
 ```
 
-> Even though `greet` has finished execution, `firstName` is still accessible when we call myClosure(), because of the closure. Due to this, "alice" is logged to the console. 
+> Even though `greet` has finished execution, `firstName` is still accessible when we call myClosure(), because of the closure. Due to this, "Alice" is logged to the console. 
