@@ -11,6 +11,7 @@ With my background as a nurse 💉, I have witnessed firsthand how technology ha
 | Table of Contents | :point_down: |
 | -------- | -------- |
 | 🗓️ **April** 🌦️ | |
+| [Closures use case](JavaScript/Concepts/UseCaseClosures.md) | 04/10/2024 |
 | [Closures example II](JavaScript/Concepts/ClosuresII.md) | 04/09/2024 |
 | [Closures Review](JavaScript/Concepts/ClosuresExample.md) | 04/08/2024 |
 | [Project Scoreboard](JavaScript/Projects/scoreboard.md) | 04/07/2024 |
