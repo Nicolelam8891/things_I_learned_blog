@@ -14,6 +14,7 @@ With my background as a nurse 💉, I have witnessed firsthand how technology ha
 | [Closures Review](JavaScript/Concepts/ClosuresExample.md) | 04/08/2024 |
 | [Project Scoreboard](JavaScript/Projects/scoreboard.md) | 04/07/2024 |
 | [setTimeout function](JavaScript/Projects/setTimeout.md) | 04/06/2024 |
+| [Higher-order functions example](JavaScript/Concepts/HigherFunctionsExample.md) | 04/05/2024 |
 | [Render Winner Icons](JavaScript/Projects/renderWinnerIcons.md) | 04/04/2024 |
 | 🗓️ **March** 🍀 | |
 | [How the Web Works II](JavaScript/Concepts/HowTheWebWorksII.md) | 03.27.2024 |
