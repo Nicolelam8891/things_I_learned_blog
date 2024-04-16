@@ -11,6 +11,7 @@ With my background as a nurse 💉, I have witnessed firsthand how technology ha
 | Table of Contents | :point_down: |
 | -------- | -------- |
 | 🗓️ **April** 🌦️ | |
+| [Relating Lexical Scoping to Nursing](JavaScript/Concepts/LexicalScopeNursing.md) | 04/12/2024 |
 | [Counter](JavaScript/LeetCodeMethods/Counter.md) | 04/11/2024 |
 | [Closures use case](JavaScript/Concepts/UseCaseClosures.md) | 04/10/2024 |
 | [Closures example II](JavaScript/Concepts/ClosuresII.md) | 04/09/2024 |
