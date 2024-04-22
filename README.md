@@ -11,6 +11,9 @@ With my background as a nurse 💉, I have witnessed firsthand how technology ha
 | Table of Contents | :point_down: |
 | -------- | -------- |
 | 🗓️ **April** 🌦️ | |
+| [Virtual DOM](JavaScript/Concepts/VirtualDOM.md) | 04/20/2024 |
+| [DOM](JavaScript/Concepts/DOM.md) | 04/19/2024 |
+| [Data Model](JavaScript/Concepts/DataModel.md) | 04/18/2024 |
 | [Reduce Iterator](JavaScript/LeetCodeMethods/ReduceIterator.md) | 04/17/2024 |
 | [Undefiend and Null](JavaScript/Concepts/NullAndUndefiend.md) | 04/16/2024 |
 | [Promises](JavaScript/Concepts/Promises.md) | 04/15/2024 |
