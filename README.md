@@ -11,6 +11,7 @@ With my background as a nurse 💉, I have witnessed firsthand how technology ha
 | Table of Contents | :point_down: |
 | -------- | -------- |
 | 🗓️ **April** 🌦️ | |
+| [Reduce Iterator](JavaScript/LeetCodeMethods/ReduceIterator.md) | 04/17/2024 |
 | [Undefiend and Null](JavaScript/Concepts/NullAndUndefiend.md) | 04/16/2024 |
 | [Promises](JavaScript/Concepts/Promises.md) | 04/15/2024 |
 | [Callback function Nursing](JavaScript/Concepts/CallbackFunctionNursing.md) | 04/14/2024 |
