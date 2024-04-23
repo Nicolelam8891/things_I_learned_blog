@@ -11,8 +11,9 @@ With my background as a nurse 💉, I have witnessed firsthand how technology ha
 | Table of Contents | :point_down: |
 | -------- | -------- |
 | 🗓️ **April** 🌦️ | |
+| [Event Propagation](JavaScript/Concepts/EventPropagation.md) | 04/24/2024 |
 | [Return Statement](JavaScript/Concepts/Return.md) | 04/23/2024 |
-| [Event Bubbling](JavaScript/Concepts/EventBubbling.md) | 04/22/2024 |
+| [Event Delegation](JavaScript/Concepts/EventDelegation.md) | 04/22/2024 |
 | [DOM in the nursing world](JavaScript/Concepts/DOMNursing.md) | 04/21/2024 |
 | [Virtual DOM](JavaScript/Concepts/VirtualDOM.md) | 04/20/2024 |
 | [DOM](JavaScript/Concepts/DOM.md) | 04/19/2024 |
