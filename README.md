@@ -11,6 +11,7 @@ With my background as a nurse 💉, I have witnessed firsthand how technology ha
 | Table of Contents | :point_down: |
 | -------- | -------- |
 | 🗓️ **April** 🌦️ | |
+| [Scoreboard in App](JavaScript/Projects/scoreboardApp.md) | 04/26/2024 |
 | [useEffect Hook](JavaScript/Concepts/useEffect.md) | 04/25/2024 |
 | [Event Propagation](JavaScript/Concepts/EventPropagation.md) | 04/24/2024 |
 | [Return Statement](JavaScript/Concepts/Return.md) | 04/23/2024 |
