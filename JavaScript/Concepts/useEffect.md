@@ -12,3 +12,26 @@
 - if a dependency is provided, it runs after every update, if any of the dependencies change
 - if we pass an empty array, `[]` as the 2nd argument, it runs only once after the initial render
 
+```js 
+const PatientProfile = ({ patientId }) => {
+  const [patientData, setPatientData] = useState(null);
+
+  useEffect(() => {
+    //function to fetch the data using an API
+  }, [patientId]); // Runs once when patientId changes
+
+  return (
+    <div>
+      {patientData ? (
+        <div>
+          <h2>{patientData.name}</h2>
+          <p>Age: {patientData.age}</p>
+          <p>Condition: {patientData.condition}</p>
+        </div>
+      ) : (
+        <p>Loading patient data...</p>
+      )}
+    </div>
+  );
+};
+```
