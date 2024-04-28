@@ -16,3 +16,47 @@ In the desired component: I will make sure that the score start off at 0.
     }
   }
 ```
+> This is the determineWinner function inside of GameBoard component
+
+```js
+const determineWinner = (playerChoice) => {
+      let computerChoice = computerResult(gameMode)
+
+      setPlayerChoice(playerChoice);
+      setComputerChoice(computerChoice);
+
+      let rules = {}
+      if (gameMode === 'classic') {
+        rules = {
+          bombIcon: ['shellIcon'],
+          shellIcon: ['starIcon'],
+          starIcon: ['bombIcon'], 
+        }
+       } else {
+        rules = {
+            //[winner: losers]
+            bombIcon: ['shellIcon', 'daisy fireballIcon'],
+            shellIcon: ['shellIcon', 'starIcon'],
+            starIcon: ['starIcon', 'bombIcon'],
+            coinIcon: ['shellIcon', 'starIcon'],
+            daisyFireballIcon: ['coinIcon', 'bombIcon']
+          }
+        }      
+      if (playerChoice === computerChoice) {
+        console.log(`It's a draw!`);
+        setWinner('draw')
+      } else if (rules[playerChoice].includes(computerChoice)) {
+        //rules[playerChoice] (if it is coin) = ['shell', 'star']
+        console.log(`Good work! Peach wins!`);
+        setWinner('player')
+        updateScores("player")
+      } else {
+        //CPU wins
+        console.log(`Oh no! Bowser wins!`);
+        setWinner('computer')
+        updateScores("computer")
+      }
+}
+```
+
+> In the determine winner, I am using the setter function setWinner  to 'player' or 'computer,' depending who wins. Then, in App, the updateScores has access to it. I used a condition, if the winner is `player`, then we can update the score by 1 point, using the setter function `ssetPlayerScore.`
