@@ -11,6 +11,7 @@ With my background as a nurse 💉, I have witnessed firsthand how technology ha
 | Table of Contents | :point_down: |
 | -------- | -------- |
 | 🗓️ **April** 🌦️ | |
+| [Callback function example 2](JavaScript/Concepts/CallbackFunctionEx2.md) | 04/28/2024 |
 | [Event Delegation Example](JavaScript/Concepts/EventDelegationEx.md) | 04/27/2024 |
 | [Scoreboard in App](JavaScript/Projects/scoreboardApp.md) | 04/26/2024 |
 | [useEffect Hook](JavaScript/Concepts/useEffect.md) | 04/25/2024 |
