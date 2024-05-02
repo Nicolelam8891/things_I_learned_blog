@@ -7,6 +7,7 @@
     }
   }
 
+//this will be in there return() so that it will render on the DOM
  <div onClick={handleClick}>
       <button className="1">1</button>
       <button className="2">2</button>
