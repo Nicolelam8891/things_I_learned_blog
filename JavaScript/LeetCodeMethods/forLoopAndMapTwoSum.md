@@ -1,6 +1,6 @@
-## Two sum problem with Pointer vs Map version
+## Two sum problem with forLoop vs Map version
 
-> Pointer system
+> forLoop 
 ```js
 var twoSum = function(nums, target) {
     for (let i = 0; i < nums.length; i++) {
@@ -25,15 +25,11 @@ Conclusion:
 Efficiency: The Map approach with a for...of loop is more efficient (O(n) time complexity) compared to the nested for loops (O(n^2) time complexity).
 Readability: Both approaches are readable, but using a Map is generally considered a more elegant solution for the two-sum problem.
 
-> The two-pointer technique is an efficient method to solve problems like this, but it works best on sorted arrays. For the two-sum problem, if the array is sorted, the two-pointer approach is very effective. However, since the array is not guaranteed to be sorted, the most optimal solution remains using a hash map (or an object in JavaScript).
-
 > According to Chat
 Comparison:
 Hash Map Approach: O(n) time complexity, O(n) space complexity.
-Two-Pointer Approach: O(n log n) time complexity due to sorting, O(1) space complexity (or O(n) if considering the sorted copy).
 Conclusion:
 Hash Map Approach: Generally preferred for its linear time complexity and simplicity.
-Two-Pointer Approach: Effective if the array is already sorted or if sorting the array is acceptable within the constraints.
 
 ```js
 /**
@@ -66,3 +62,47 @@ var twoSum = function(nums, target) {
 ```
 
 > Using a Map for this problem provides an efficient solution with a time complexity of O(n), as it only requires a single pass through the array and constant time lookups for complements.
+
+Basic Operations of a Map
+
+```js
+//Creating a map
+let myMap = new Map();
+//Adding Elements
+myMap.set(key, value);
+//Retrieving values
+let value = myMap.get(key);
+//Checking for a key:
+let hasKey = myMap.has(key);
+//Removing Elements
+myMap.delete(key);
+//Getting the size:
+let size = myMap.size;
+//Iterating over a Map
+myMap.forEach((value, key) => {
+    console.log(key, value);
+});
+```
+
+> Explanation with an Example
+Example with nums = [2, 7, 11, 15] and target = 9:
+
+Initialize the Map:
+
+numMap = {}
+First Iteration (i = 0):
+
+num = 2
+complement = 9 - 2 = 7
+numMap.has(7): false
+numMap.set(2, 0)
+numMap = {2 => 0}
+Second Iteration (i = 1):
+
+num = 7
+complement = 9 - 7 = 2
+numMap.has(2): true
+return [numMap.get(2), 1]: return [0, 1]
+We find the pair [2, 7] which sums up to 9, and return their indices [0, 1].
+
+It will stop and return what is needed
