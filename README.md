@@ -11,6 +11,7 @@ With my background as a nurse 💉, I have witnessed firsthand how technology ha
 | Table of Contents | :point_down: |
 | -------- | -------- |
 🗓️ **May** 🪻 | |
+| [Two Sum problem with Map and forLoop](JavaScript/LeetCodeMethods/forLoopAndMapTwoSum.md) | 05/22/2024 |
 | [Icon Images for Project](JavaScript/Projects/iconsForProject.md) | 05/21/2024 |
 | 🗓️ **April** 🌦️ | |
 | [Callback function example 2](JavaScript/Concepts/CallbackFunctionEx2.md) | 04/28/2024 |
