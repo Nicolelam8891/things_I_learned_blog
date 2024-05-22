@@ -10,7 +10,7 @@ With my background as a nurse 💉, I have witnessed firsthand how technology ha
 
 | Table of Contents | :point_down: |
 | -------- | -------- |
-🗓️ **May** 🌦️ | |
+🗓️ **May** 🪻 | |
 | [Icon Images for Project](JavaScript/Projects/iconsForProject.md) | 05/21/2024 |
 | 🗓️ **April** 🌦️ | |
 | [Callback function example 2](JavaScript/Concepts/CallbackFunctionEx2.md) | 04/28/2024 |
