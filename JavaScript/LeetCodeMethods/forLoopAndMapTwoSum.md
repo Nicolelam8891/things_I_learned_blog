@@ -38,21 +38,22 @@ Hash Map Approach: Generally preferred for its linear time complexity and simpli
  * @return {number[]}
  */
 var twoSum = function(nums, target) {
-    // Create a map to store the difference and its index
+    // First, I create a map to store numbers and their corresponding indices
     let numMap = new Map();
     
-    // Loop through the array
+    // Second, I create a forLoop
     for (let i = 0; i < nums.length; i++) {
-        let num = nums[i]; // Current number
+        let num = nums[i]; // This is the current number
         let complement = target - num; // Complement needed to reach target
         
-        // Check if the complement exists in the map
+        // Third, write a conditional to check if the complement exists in the map
         if (numMap.has(complement)) {
             // If it exists, return the indices
             return [numMap.get(complement), i];
         }
-        
-        // If it doesn't exist, add the number and its index to the map
+        //The function checks if the complement exists in the numMap, if it does, it means that the complement and the currently number num add up to the target
+
+        // If the complement does not exist in the map, the current number num and its index i are added to the map
         numMap.set(num, i);
     }
     
@@ -60,6 +61,23 @@ var twoSum = function(nums, target) {
     return [];
 };
 ```
+> Example:
+nums = [2, 7, 11, 15], target = 9
+
+Iteration 1 (i = 0):
+
+num = 2
+complement = 9 - 2 = 7
+numMap is empty, so 7 is not in numMap.
+Add 2 with index 0 to numMap: numMap = {2: 0}
+Iteration 2 (i = 1):
+
+num = 7
+complement = 9 - 7 = 2
+numMap has 2, so we found the pair (2, 7) that adds up to 9.
+Return the indices: [0, 1]
+
+The function stops and returns [0, 1] because it found the two numbers 2 and 7 that add up to the target 9.
 
 > Using a Map for this problem provides an efficient solution with a time complexity of O(n), as it only requires a single pass through the array and constant time lookups for complements.
 
