@@ -62,6 +62,7 @@ var twoSum = function(nums, target) {
 };
 ```
 > Example:
+
 nums = [2, 7, 11, 15], target = 9
 
 Iteration 1 (i = 0):
@@ -103,6 +104,7 @@ myMap.forEach((value, key) => {
 ```
 
 > Explanation with an Example
+
 Example with nums = [2, 7, 11, 15] and target = 9:
 
 Initialize the Map:
