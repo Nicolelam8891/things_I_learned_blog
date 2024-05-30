@@ -11,6 +11,7 @@ With my background as a nurse 💉, I have witnessed firsthand how technology ha
 | Table of Contents | :point_down: |
 | -------- | -------- |
 🗓️ **May** 🪻 | |
+| [Split & Join Methods](JavaScript/Iterators/joinAndSplit.md) | 05/31/2024 |
 | [Epic Hyperspace](JavaScript/Other/epicSystems.md) | 05/30/2024 |
 | [Two Sum problem with Map and forLoop](JavaScript/LeetCodeMethods/forLoopAndMapTwoSum.md) | 05/22/2024 |
 | [Icon Images for Project](JavaScript/Projects/iconsForProject.md) | 05/21/2024 |
